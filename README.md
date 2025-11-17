@@ -98,4 +98,5 @@ Example screenshot:
     ├── index.html
     ├── products.json
     └── README.md
-```# Simple-E-commerce-Cart
+```
+# Simple-E-commerce-Cart
